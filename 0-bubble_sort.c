@@ -1,4 +1,5 @@
 #include "sort.h"
+
 /**
  * bubble_sort - swaps adjuscent elements if they are not in order and sort arrays
  * @array: array to sort
