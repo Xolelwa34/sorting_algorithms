@@ -1,9 +1,10 @@
 #include "sort.h"
-
 /**
  * bubble_sort - swaps adjuscent elements if they are not in order and sort arrays
+ *
  * @array: array to sort
  * @size: size of an array
+ *
  */
 void bubble_sort(int *array, size_t size)
 {
